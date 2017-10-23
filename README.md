@@ -16,7 +16,6 @@ Second Page:
 * print pdf
 
 ## Dependencies:
-QuillJS (maybe)
-D3
-webpack
-
+QuillJS (maybe)  
+D3  
+webpack  
